@@ -1,5 +1,4 @@
-# Project Title
-Manual Testing Project for ACME website
+## Manual Testing Project for ACME website
 ## Introduction
 This project focuses on manual testing for ACME website. The aim is to ensure that all functional aspects of the application meet the specified requirements through comprehensive manual testing processes.
 ## Key Features Tested
